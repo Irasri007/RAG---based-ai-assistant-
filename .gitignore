@@ -1,0 +1,10 @@
+vdeos/
+audios/
+whisper_con/
+
+*.webm
+*.mp3
+*.wav
+
+__pycache__/
+*.pyc
