@@ -1,10 +1,11 @@
-vdeos/
 audios/
+videos/
 whisper_con/
-
-*.webm
-*.mp3
-*.wav
-
+jsons/
+output.json
+response.txt
+prompt.txt
+.env
 __pycache__/
 *.pyc
+.vscode/vdeos/
